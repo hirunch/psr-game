@@ -52,3 +52,8 @@ if (agree) {
     window.alert("Invalid Input, Please Try Again!");
   }
 }
+else {
+
+  window.alert("Okay, Maybe Next Time!");
+
+}
